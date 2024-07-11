@@ -5,17 +5,19 @@ This data-driven approach aligns with the growing emphasis on leveraging analyti
 
 # Objective of the project
 
-●	To identify the media type with the highest engagement rate among the audience on Data Analyst Duo's Instagram account. 
+     1.To identify the media type with the highest engagement rate among the audience on Data Analyst Duo's Instagram account. 
 
 Reason - Considering that Reels reportedly exhibit the highest reach rate among all media types on Instagram, our goal is to examine and determine which specific media format resonates most effectively with the followers of Data Analyst Duo. This analysis aims to provide actionable insights into optimizing content strategy, aligning with the goal of maximizing audience engagement on the Instagram platform.
 
-●	The objective is to discern which types of posts on Data Analyst Duo's Instagram account higher audience engagement across various metrics, namely likes, shares, comments, and saves. 
+     2.The objective is to discern which types of posts on Data Analyst Duo's Instagram account higher audience engagement across various metrics, namely likes, shares, comments, and saves. 
 
 Reason - By delving into the specific characteristics of each post type, our aim is to understand the nuanced preferences of the audience and unravel the factors contributing to heightened engagement in each metric category. This analysis is crucial for tailoring content strategies, as it provides insights into the unique aspects that resonate with the audience, ultimately enhancing the effectiveness of the Instagram account's engagement tactics.
 
-●	The objective is to analyze the trend in follower growth for Data Analyst Duo on Instagram, aiming to pinpoint the key periods of increase or decrease. 
+      3.Our objective is to analyze the trend in follower growth for Data Analyst Duo on Instagram, aiming to pinpoint the key periods of increase or decrease. 
 
 Reason - By delving into these patterns, we seek to understand the underlying reasons behind fluctuations in follower numbers. This analysis is essential to uncover the factors driving growth and to identify potential challenges that may contribute to declines. The insights gained will facilitate informed decision-making, allowing us to capitalize on successful strategies and address areas that may require attention, ultimately optimizing the account's follower trajectory.
+
+
 
 # DATA CLEANING AND PREPARATION 
 
@@ -54,8 +56,54 @@ Growth Rate Calculation:
 
  #  Analysis and Insights
 
- Engagement among different types of post
+ 1.Engagement among different types of post
+ 
  ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/d094d0a1-5b14-4735-929d-93be6e991546)
+
+
+•	Engagement Insights: Unveiling Audience Attraction
+   
+   Observing the engagement metrics, it becomes evident that Instagram Reels exhibit the highest reach, emphasizing a substantial audience attraction. Interestingly, Instagram Carousels, particularly those with 
+   25 posts, showcase the highest interaction in terms of comments, demonstrating a noteworthy level of engagement. Although Carousels may have a lower reach compared to Reels, they excel in actively engaging the 
+   audience. In contrast, Instagram Images maintain a moderate engagement rate of 5%, showcasing a consistent level of interaction.
+
+•	Content Interactions: Reels Taking the Lead
+
+   Analyzing content interactions, it is apparent that Instagram Reels command a higher engagement metric compared to other post types.
+
+•	Retention Rates: A Reels Exclusive Metric
+
+   Retention rates exclusively apply to Instagram Reels, revealing a commendable rate of 9%. In summary, Reels outperform other post types, showcasing a slightly lower engagement rate than Carousels but excelling 
+   in audience retention.
+
+   2.Engagement Among duration bins (>30 secs & <30 secs)
+
+    ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/c7838454-2a06-49be-8f88-c7adb0c26668)
+
+
+    In this dataset, Reels with a duration under 30 seconds have a higher average reach of 59,003 compared to those over 30 seconds with an average reach of 47,560. Despite the shorter duration, the engagement metrics for shorter Reels are noteworthy, with an average of 7% engagement rate, 1,864 likes, and 634 comments. On the other hand, longer Reels boast a higher average engagement rate of 8% but slightly fewer likes and comments. Considering these findings, it's recommended to continue producing Reels under 30 seconds for maximizing reach and engagement. However, experimenting with longer Reels could be beneficial to capitalize on the higher engagement rate observed in that category.
+
+   3.Analysis for highest performing post in terms of impression 
+
+    ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/3e888c49-02f1-4918-9dc5-aca33d6738d9)
+
+
+    IG Reels stand out for their high engagement, especially in the lower follower count categories, suggesting a strong performance for this content format. However, the overall metrics indicate room for improvement in terms of impressions and engagement across all post types.
+
+    4.The Relationship Between Shares and Followers Gained
+
+     ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/287851d7-4b5c-49d2-a3cb-fce111740684)
+
+
+     The data fails to demonstrate a consistent pattern or correlation, indicating that the act of sharing content does not distinctly influence the acquisition of new followers. This ambiguity suggests that factors beyond simple shares play a role in follower growth, urging a deeper exploration into other engagement metrics and content strategies to understand the dynamics influencing follower acquisition on a more nuanced level.
+
+								          #### DASHBOARD
+
+
+    ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/625cffe4-4dc6-4cd1-8121-62cb09dc899d)
+
+
+     
 
 
 
