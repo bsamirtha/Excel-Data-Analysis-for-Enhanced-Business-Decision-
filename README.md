@@ -93,6 +93,13 @@ IG Reels stand out for their high engagement, especially in the lower follower c
 
 ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/082bc21d-89b7-4790-9d58-34fb03c686f6)
 
+The data fails to demonstrate a consistent pattern or correlation, indicating that the act of sharing content does not distinctly influence the acquisition of new followers. This ambiguity suggests that factors beyond simple shares play a role in follower growth, urging a deeper exploration into other engagement metrics and content strategies to understand the dynamics influencing follower acquisition on a more nuanced level.
+
+											#DASHBOARD
+
+                 ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/970b87c5-2f5c-4937-8f33-079d7b31484f)
+
+
 
 
     
