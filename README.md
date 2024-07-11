@@ -97,7 +97,7 @@ The data fails to demonstrate a consistent pattern or correlation, indicating th
 
 											#DASHBOARD
 
-                 ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/970b87c5-2f5c-4937-8f33-079d7b31484f)
+
 
 
 
