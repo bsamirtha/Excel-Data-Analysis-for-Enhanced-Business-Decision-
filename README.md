@@ -56,9 +56,9 @@ Growth Rate Calculation:
 
  #  Analysis and Insights
 
- 1.Engagement among different types of post
+# Engagement among different types of post
  
- ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/d094d0a1-5b14-4735-929d-93be6e991546)
+ ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/d094d0a1-5b14-4735-929d-93be6e991546) 
 
 
 •	Engagement Insights: Unveiling Audience Attraction
@@ -76,7 +76,7 @@ Growth Rate Calculation:
    Retention rates exclusively apply to Instagram Reels, revealing a commendable rate of 9%. In summary, Reels outperform other post types, showcasing a slightly lower engagement rate than Carousels but excelling 
    in audience retention.
 
-   2.Engagement Among duration bins (>30 secs & <30 secs)
+# Engagement Among duration bins (>30 secs & <30 secs)
 
     ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/c7838454-2a06-49be-8f88-c7adb0c26668) 
 
