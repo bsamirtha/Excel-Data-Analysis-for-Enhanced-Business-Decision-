@@ -80,6 +80,12 @@ Growth Rate Calculation:
 
    ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/87050e81-212e-4060-bc36-eab2b866ead9)
 
+  In this dataset, Reels with a duration under 30 seconds have a higher average reach of 59,003 compared to those over 30 seconds with an average reach of 47,560. Despite the shorter duration, the engagement metrics for shorter Reels are noteworthy, with an average of 7% engagement rate, 1,864 likes, and 634 comments. On the other hand, longer Reels boast a higher average engagement rate of 8% but slightly fewer likes and comments. Considering these findings, it's recommended to continue producing Reels under 30 seconds for maximizing reach and engagement. However, experimenting with longer Reels could be beneficial to capitalize on the higher engagement rate observed in that category.
+
+# Analysis for highest performing post in terms of impression 
+
+![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/925376f3-8eac-4c31-ad52-3775b9dbe09a)
+
 
 
     
