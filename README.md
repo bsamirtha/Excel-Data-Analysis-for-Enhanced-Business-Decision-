@@ -5,15 +5,15 @@ This data-driven approach aligns with the growing emphasis on leveraging analyti
 
 # Objective of the project
 
-# To identify the media type with the highest engagement rate among the audience on Data Analyst Duo's Instagram account. 
+ ~ To identify the media type with the highest engagement rate among the audience on Data Analyst Duo's Instagram account. 
 
 Reason - Considering that Reels reportedly exhibit the highest reach rate among all media types on Instagram, our goal is to examine and determine which specific media format resonates most effectively with the followers of Data Analyst Duo. This analysis aims to provide actionable insights into optimizing content strategy, aligning with the goal of maximizing audience engagement on the Instagram platform.
 
-# To discern which types of posts on Data Analyst Duo's Instagram account higher audience engagement across various metrics, namely likes, shares, comments, and saves. 
+ ~ To discern which types of posts on Data Analyst Duo's Instagram account higher audience engagement across various metrics, namely likes, shares, comments, and saves. 
 
 Reason - By delving into the specific characteristics of each post type, our aim is to understand the nuanced preferences of the audience and unravel the factors contributing to heightened engagement in each metric category. This analysis is crucial for tailoring content strategies, as it provides insights into the unique aspects that resonate with the audience, ultimately enhancing the effectiveness of the Instagram account's engagement tactics.
 
-# To analyze the trend in follower growth for Data Analyst Duo on Instagram, aiming to pinpoint the key periods of increase or decrease. 
+ ~ To analyze the trend in follower growth for Data Analyst Duo on Instagram, aiming to pinpoint the key periods of increase or decrease. 
 
 Reason - By delving into these patterns, we seek to understand the underlying reasons behind fluctuations in follower numbers. This analysis is essential to uncover the factors driving growth and to identify potential challenges that may contribute to declines. The insights gained will facilitate informed decision-making, allowing us to capitalize on successful strategies and address areas that may require attention, ultimately optimizing the account's follower trajectory.
 
