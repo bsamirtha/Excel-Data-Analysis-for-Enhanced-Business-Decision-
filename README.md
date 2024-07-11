@@ -86,6 +86,13 @@ Growth Rate Calculation:
 
 ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/925376f3-8eac-4c31-ad52-3775b9dbe09a)
 
+IG Reels stand out for their high engagement, especially in the lower follower count categories, suggesting a strong performance for this content format. However, the overall metrics indicate room for improvement in terms of impressions and engagement across all post types.
+
+#  The Relationship Between Shares and Followers Gained
+
+
+![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/082bc21d-89b7-4790-9d58-34fb03c686f6)
+
 
 
     
