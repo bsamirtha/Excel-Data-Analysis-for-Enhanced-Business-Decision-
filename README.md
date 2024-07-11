@@ -78,7 +78,8 @@ Growth Rate Calculation:
 
 # Engagement Among duration bins (>30 secs & <30 secs)
 
-    ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/c7838454-2a06-49be-8f88-c7adb0c26668) 
+   ![image](https://github.com/bsamirtha/Excel-Data-Analysis-for-Enhanced-Business-Decision-/assets/175279461/87050e81-212e-4060-bc36-eab2b866ead9)
+
 
 
     
